@@ -96,7 +96,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Cut the belt, leaving approximately an inch of tail for adjustment.
 - It is best if both belts are the same length - now is a great time to do it, once the clips are adjusted. To do so, remove both belts (Mark the front clip for each so you know which was which), lay them out on the floor side by side, and adjust the clips to be the same # of teeth apart. Reinstall the belts.
 
-<details markdown="1"><summary>3 comment(s) on this step</summary>
+**3 comments on step 8:**
 
 > **Steven Moon** wrote on 2020-05-30:
 > 
@@ -121,8 +121,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > **Max Plastix** wrote on 2020-05-17:
 > 
 > It helped to center the X/Y stepper motors in the mounting hole slots, so they start from the same position (belt length).
-
-</details>
 
 
 Previous: [K) Y Carriage](k-y-carriage.md) · [RailCore II guide list](index.md) · Next: [M) Hotend and Extruder](m-hotend-and-extruder.md)

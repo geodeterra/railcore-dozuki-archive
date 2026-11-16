@@ -33,7 +33,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - **Caution:** If your Kit came with RRFv3 installed: Copy the files here into the /macros folder: [https://www.dropbox.com/sh/rnumrdwvmmmqo...](https://www.dropbox.com/sh/rnumrdwvmmmqohr/AABIl5hocRomJl2WglI1PjSUa?dl=0 "https://www.dropbox.com/sh/rnumrdwvmmmqohr/AABIl5hocRomJl2WglI1PjSUa?dl=0")
 - Eject the SD card from your PC, and put it back in the Duet.
 
-<details markdown="1"><summary>2 comment(s) on this step</summary>
+**2 comments on step 2:**
 
 > **bluxero** wrote on 2020-12-31:
 > 
@@ -46,8 +46,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > Updated configuration files can be found here:
 >
 > [https://www.dropbox.com/sh/pg0ugu5qunokj...](https://www.dropbox.com/sh/pg0ugu5qunokjc9/AAD8PkPqVGPp-yWV5Cug3_Usa?dl=0&fbclid=IwAR34QOCDe8QBza2rBmPofFK8dcl0a5DGfRcshysLDSi7lufiN9AyP5OEWJM "https://www.dropbox.com/sh/pg0ugu5qunokjc9/AAD8PkPqVGPp-yWV5Cug3_Usa?dl=0&amp;fbclid=IwAR34QOCDe8QBza2rBmPofFK8dcl0a5DGfRcshysLDSi7lufiN9AyP5OEWJM")
-
-</details>
 
 ## Step 3: Connecting to your Duet
 
@@ -80,7 +78,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
   - Upload `Duet2Firmware-2.05.1.zip` and reboot when prompted. Note that the .zip file should be sent as-is, and not extracted on your PC.
   - Check your firmware versions in the GUI to make sure they match the expected versions.
 
-<details markdown="1"><summary>2 comment(s) on this step</summary>
+**2 comments on step 5:**
 
 > **Ray Milyard** wrote on 2020-07-06:
 > 
@@ -89,8 +87,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > **Lee Williams** wrote on 2020-07-02:
 > 
 > Is this still the proper firmware revision and Github source? The "iap4e.bin" file doesn’t seem to be there.
-
-</details>
 
 ## Step 6
 

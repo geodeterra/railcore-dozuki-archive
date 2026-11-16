@@ -37,15 +37,13 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - The Y carriage gets (18) 3mm brass inserts, as in the picture. (Note: there are also two on the back side, and one on the top. Not all RailCore kits include the optional one on the top, requiring only 17 inserts)
 - Each Electronics Box corner gets one (1) brass insert. One end is thicker, to make putting the insert in easier. Be sure to place the inserts into the thick end, as in Picture 2.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 1:**
 
 > **Jeffery Seiffert** wrote on 2023-01-04:
 > 
 > The ones I bought from Filastruder.com were slightly different and I ended up putting the brass inserts in the wrong one, panel side(bottom)
 >
 > You need to put the insert on the side that is slanted inside and not flat. The instructions say the thick side and well the bottom on the Filastruder ones are maybe twice as thick and the Top slant wasn't as thick as the picture shown. It all worked out as the screws to mount to the panel were too short to put a nut and washer on it and the brass insert seems to be holding pretty good.
-
-</details>
 
 ## Step 2: Install the Keenovo Heater
 

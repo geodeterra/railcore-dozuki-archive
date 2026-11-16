@@ -49,13 +49,11 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Attach the BMG toothed gear onto the pancake stepper motor.
 - Fit the stepper motor through the BMG (it helps to take the front off of the BMG)
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 5:**
 
 > **Max Plastix** wrote on 2020-05-20:
 > 
 > Might be a good place to note the BMG gear orientation, with the screw away from the motor. It feels backwards, but it’s correct.
-
-</details>
 
 ## Step 6: Bolt the BMG to Stepper
 
@@ -63,13 +61,11 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 
 - Fasten the BMG and stepper together on the extruder mount using (3) M3 x 35mm bolts. (These bolts come with the BMG)
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 6:**
 
 > **Max Plastix** wrote on 2020-05-25:
 > 
 > Here is where you check the gear mesh between the stepper gear and BMG secondary gear.
-
-</details>
 
 ## Step 7: X Endstop Assembly
 
@@ -78,7 +74,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Attach the X Endstop (it comes pre-wired) to the printed X Endstop Mount using (2) M2 x 12mm Flat Head Bolts and (2) M2 Nuts
 - **Note:** Don't worry about the wire for now, it's routed later.
 
-<details markdown="1"><summary>2 comment(s) on this step</summary>
+**2 comments on step 7:**
 
 > **Islam** wrote on 2021-11-14:
 > 
@@ -89,8 +85,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > Halo: If you build with a Halo, this X Endstop mount will not work as shown, since the top of the frame is blocked. You will need to print an X Endstop mount that bolts to the Bottom of the top extrusion instead. For example:
 >
 > Railcore II X and Y Endstop Brackets by theMachinista on Thingiverse: [https://www.thingiverse.com/thing:375969...](https://www.thingiverse.com/thing:3759698 "https://www.thingiverse.com/thing:3759698")
-
-</details>
 
 ## Step 8: X Endstop Installation
 

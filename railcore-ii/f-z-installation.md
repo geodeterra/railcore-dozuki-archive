@@ -48,7 +48,7 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 - On the right the vertical ends of the brackets face the front of the frame.
 - Loosely install each Z bracket using (3) M3 Nylock Nuts. Leave them loose enough you can easily move them, there should be about 60mm between them, and the front one about 110mm from the front of the frame, though you can adjust later.
 
-<details markdown="1"><summary>2 comment(s) on this step</summary>
+**2 comments on step 2:**
 
 > **Ryan McKibbin** wrote on 2020-06-21:
 > 
@@ -61,8 +61,6 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 > Ensure that the MRW Logo piece is off-center from the 4-hole piece. See pictures on MRW web site.
 >
 > Leave the locknuts loose in this step.
-
-</details>
 
 ## Step 3: Add Bolts to Z Brackets
 
@@ -81,7 +79,7 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 - Repeat for all (3) Z linear rails.
 - **Caution:** It is highly recommended to use a bit of masking tape to keep the carriage from sliding off of the linear rail.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 4:**
 
 > **evin Powell** wrote on 2020-06-17:
 > 
@@ -91,8 +89,6 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 > > 
 > > I’ll be doing new images for all of the linear rail steps in the next couple of days, to fix that. All linear rails should be an m3 x 8mm with a m3 lock washer in the latest kits.
 
-</details>
-
 ## Step 5: Install Z Linear Rails on Z Extrusions
 
 [![Step 5: Install Z Linear Rails on Z Extrusions, image 1](../assets/images/large/rxQNedTuJpACEGsC.jpg)](../assets/images/zoom/rxQNedTuJpACEGsC.jpg)
@@ -101,7 +97,7 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 - The rail should sit ~20mm up from the bottom of the extrusion.
 - **Caution:** It is highly recommended to use a bit of masking tape to keep the carriage from sliding off of the linear rail.
 
-<details markdown="1"><summary>2 comment(s) on this step</summary>
+**2 comments on step 5:**
 
 > **Eric Moyer** wrote on 2021-01-30:
 > 
@@ -110,8 +106,6 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 > **Leon Grossman** wrote on 2020-07-01:
 > 
 > It’s unclear from this step where the railing should be placed. I centered mine but I’m not far enough in this build to know if that is correct.
-
-</details>
 
 ## Step 6: Install Z Extrusion Assemblies on Z Brackets
 

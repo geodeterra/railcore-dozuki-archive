@@ -45,13 +45,11 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Attach the front stepper mount to the top of the frame using (4) m3 x 8mm button head bolts.
 - **Note:** Don't overtighten them - you'll need to be able to adjust the position of the idler mount to align the belts later.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 2:**
 
 > **Max Plastix** wrote on 2020-05-15:
 > 
 > Not applicable for Halo, of course.
-
-</details>
 
 ## Step 3: Install Front Stepper
 
@@ -60,15 +58,13 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Attach one of the 0.9 degree NEMA 17 steppers to the front idler mount using (4) m3 x 8mm Button Head Bolts.
 - The wiring connector should point towards the rear of the machine.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 3:**
 
 > **Max Plastix** wrote on 2020-05-15:
 > 
 > Halo requires longer screws: M3x10mm
 >
 > Also consider adding an M3 washer to better fit the Halo slot.
-
-</details>
 
 ## Step 4: Install Front Pulley
 
@@ -77,13 +73,11 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Install one of the 16t pulleys onto the stepper shaft with the teeth facing down. There are two set screws, be sure one of them is against the flat of the stepper shaft.
 - **Note:** Don't overtighten the set screws, you'll need to adjust the pulley height to align the belt later
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 4:**
 
 > **Max Plastix** wrote on 2020-06-26:
 > 
 > (Halo) The thicker material of the Halo causes the motor to sit a bit lower, with less usable motor shaft. Install this Front Pulley “right side up” with the Teeth facing Up to better reach the belt and position the grub screw. This way, the pulley is fully on the shaft when aligned, rather than hanging off the tip of the shaft.
-
-</details>
 
 ## Step 5: Rear Stepper Mount
 
@@ -98,13 +92,11 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 
 - Attach one of the 0.9 degree NEMA 17 steppers to the front idler mount using (4) m3 x 8mm Button Head Bolts.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 6:**
 
 > **Max Plastix** wrote on 2020-05-15:
 > 
 > Again, longer screws needed for Halo: M3x10mm with M3 washer.
-
-</details>
 
 ## Step 7: Install Rear Pulley
 
@@ -126,7 +118,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - **Note:** You want to be sure the total stack is just slightly below the shoulder on the shoulder bolt. If there is room for another shim or washer, take the last shim and pulley off, and put the extra shim on before the pulley. If you can fit an extra washer, be sure to put it on before the first shim.
 - Install the taller idler stack in the inside hole on the idler mount.
 
-<details markdown="1"><summary>5 comment(s) on this step</summary>
+**5 comments on step 8:**
 
 > **Islam** wrote on 2022-03-17:
 > 
@@ -192,21 +184,17 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > 
 > For those using the Magnum pulleys, check out Mandala Rose Works page for guidance on washer and shim placement. They give a good starting point.
 
-</details>
-
 ## Step 9: Install Idlers on Front Idler Mount (Pictures)
 
 [![Step 9: Install Idlers on Front Idler Mount (Pictures), image 1](../assets/images/large/6QMPTd4OMt5PAVZe.jpg)](../assets/images/zoom/6QMPTd4OMt5PAVZe.jpg) [![Step 9: Install Idlers on Front Idler Mount (Pictures), image 2](../assets/images/large/lwxAW52oAJBsXuSK.jpg)](../assets/images/zoom/lwxAW52oAJBsXuSK.jpg) [![Step 9: Install Idlers on Front Idler Mount (Pictures), image 3](../assets/images/large/PnoFEFdgLFXZhvBa.jpg)](../assets/images/zoom/PnoFEFdgLFXZhvBa.jpg)
 
 - These photos can be used to validate the correct installation of the idler stacks on the front idler mount.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 9:**
 
 > **Wayne Saverud** wrote on 2020-05-06:
 > 
 > If you're looking for the big red spacer like I was, it’s a printed part.
-
-</details>
 
 ## Step 10: Install Front Idler Mount
 

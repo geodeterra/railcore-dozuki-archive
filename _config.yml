@@ -3,7 +3,7 @@ description: An unofficial community mirror of the RailCore II and RailCore Mini
 theme: jekyll-theme-primer
 markdown: kramdown
 kramdown:
-  parse_block_html: true
+  parse_block_html: false
 plugins:
   - jekyll-relative-links
   - jekyll-optional-front-matter

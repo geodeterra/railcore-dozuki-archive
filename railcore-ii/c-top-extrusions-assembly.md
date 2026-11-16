@@ -67,7 +67,7 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 - Slide (6) M3 x 16mm Hex Head bolts in the bottom channel
 - **Note:** Note on the corner cube, the small hole is pointing to the right in this image
 
-<details markdown="1"><summary>2 comment(s) on this step</summary>
+**2 comments on step 3:**
 
 > **RiC0_MD** wrote on 2021-11-26:
 > 
@@ -78,8 +78,6 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 > Consider adding a few additional M3 nuts to the Inside Channel as well as the ends of the Bottom Channel for future/unplanned mounting options, to give you future accessory mounting options.
 >
 > It’s much easier to do this now than take apart the top later to add them. (When unused, add a short bolt later to prevent rattling.)
-
-</details>
 
 ## Step 4: Attach Second Corner Cube to Top Left Extrusion
 
@@ -103,7 +101,7 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 - (8) M3 nuts go in the top channel of the front extrusion (if installing the optional Halo, add six (6) more nuts in this channel for a total of 14).
 - (5) M3 x 10mm Hex Head Bolts go in the outside channel of the front extrusion.
 
-<details markdown="1"><summary>2 comment(s) on this step</summary>
+**2 comments on step 6:**
 
 > **Ray Milyard** wrote on 2020-07-14:
 > 
@@ -112,8 +110,6 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 > **Max Plastix** wrote on 2020-05-09:
 > 
 > Slide an additional (6) M3 nuts into each front & back top channel if installing the optional “Halo” top frame upgrade by 713Maker. (14) nuts total.
-
-</details>
 
 ## Step 7: (2x) Install M3 Hardware into Linear Rail
 
@@ -125,13 +121,11 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 - Repeat the above steps for the other 400mm rail.
 - **Caution:** It is highly recommended to use a bit of masking tape to keep the carriage from sliding off of the linear rail.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 7:**
 
 > **Leon Grossman** wrote on 2020-07-01:
 > 
 > If you have the Misumi rails the 8mm bolts are too long without using the lock washers as spacers. Per discord, 6mm may work as an alternative.
-
-</details>
 
 ## Step 8: Attach Linear rail to Top Front and Top Back Extrusions
 
@@ -159,13 +153,11 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 - Slide (3) M3 x 16mm Hex Head Bolts into the bottom channel
 - **Caution:** Be sure the orientation of the corner cube is correct. A large hole should face up, a small hole should be facing down, and a small hole should be facing towards the inside channel
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 10:**
 
 > **RiC0_MD** wrote on 2021-11-26:
 > 
 > I’d recommend adding a few more nuts to the top channel, if your planning to enclose the printer, but also for things like a spool holder off the right side as well.
-
-</details>
 
 ## Step 11: Attach Second Corner Cube to Top Right Extrusion
 

@@ -49,7 +49,7 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 - For the Feet, put them over the two bolts at each corner, and fasten each with (2) M3 Nylock Nuts. **Do not overtighten them against the plastic.**
 - Snug down the bottom panel using (3) M3 Nylock Nuts for the other bolts protruding along each side. A final tighten will be done later.
 
-<details markdown="1"><summary>7 comment(s) on this step</summary>
+**7 comments on step 2:**
 
 > **Islam** wrote on 2021-10-13:
 > 
@@ -83,8 +83,6 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 > 
 > Be very careful installing the printed Feet. The plastic is soft, so will crush before feeling any stop with the M3 nut. Tighten only enough to snug the foot from moving.
 
-</details>
-
 ## Step 3: Back Panel Installation
 
 [![Step 3: Back Panel Installation, image 1](../assets/images/large/cJL2Ct1ROafIb3HO.jpg)](../assets/images/zoom/cJL2Ct1ROafIb3HO.jpg)
@@ -95,7 +93,7 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 - Install the back panel using (20) M3 Nylock Nuts, in the same method as before. Do not fully tighten the nuts yet.
 - **Caution:** For the ZLT you'll need (24) M3 Nylock Nuts total.
 
-<details markdown="1"><summary>2 comment(s) on this step</summary>
+**2 comments on step 3:**
 
 > **Bas Borgignons** wrote on 2021-02-22:
 > 
@@ -104,8 +102,6 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 > **Bas Borgignons** wrote on 2021-02-22:
 > 
 > The metal sidepanels are fairly heavy, which makes it a bit more of a challenge to get all those bolts aligned with the holes. I did it as follows. The side of the printer you’re working on should be up. Take 4 objects that are roughly 50mm (or 2 inches) and put those on the corners of the printer. Put the sidepanels on top of that so the sidepanel is about 50mm above the printer, making sure the holes in the sidepanel are not blocked (look through them, you should be able to see the bolts through the holes). Take some shrinking tube that *just* fits over the M3 threads. (It was labelled 3mm in my case, but un-shrunk it was slightly larger than that). Make as many pieces as there are holes, each about 50mm / 2” longer than the 4 objects you used. Insert the tubes through the holes, and over the threads of the bolt that go there. I squeezed them into the extrusion. Now lower the panel on one side slowly, the shrinking tubes will guide the bolts into the holes. They might need some wiggling.
-
-</details>
 
 ## Step 4: Left Panel Installation
 
@@ -144,13 +140,11 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 - Be sure to roughly balance the number of M3 nuts between the bolts holding down the Halo.
 - The Stepper Mounts for the Halo go on the right side of the printer, idler mounts to the left.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 7:**
 
 > **Islam** wrote on 2021-10-13:
 > 
 > I found it really hard to get the 10mm bolts in, much easier to use 12mm like max suggests
-
-</details>
 
 ## Step 8: Squaring your Frame
 
@@ -161,7 +155,7 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 - Repeat this process for each of the side panels, tightening the bolts along the bottom of each panel first.
 - **Caution:** Be sure the side panels do not protrude above the top extrusions before tightening them.
 
-<details markdown="1"><summary>2 comment(s) on this step</summary>
+**2 comments on step 8:**
 
 > **Thomas Müller** wrote on 2022-01-25:
 > 
@@ -202,8 +196,6 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 > This might be a good time to install the optional Halo from 713Maker, while squaring the assembly with panels.
 >
 > I used M3x12 screws with an M3 washer, (6) per side, two per Halo ‘slot’.
-
-</details>
 
 ## Comments on this guide (1)
 

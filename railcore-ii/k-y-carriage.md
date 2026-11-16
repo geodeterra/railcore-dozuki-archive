@@ -48,7 +48,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Bolt the Y Carriage to the Y rail using (4) m3 x 8mm button head bolts. (Socket Cap Head Screws will not work here, use Button Head regardless of the kit you're building) Make sure they're snug.
 - **Note:** You may want a dab of loctite on the bolts for attaching the Y carriage to the Rail, they're hard to get to later.
 
-<details markdown="1"><summary>3 comment(s) on this step</summary>
+**3 comments on step 2:**
 
 > **Max Plastix** wrote on 2020-05-17:
 > 
@@ -62,8 +62,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > 
 > For the 713Maker Aluminum Y carriage on Misumi rails, M3x8 is too long. Use (4) M3x6 screws instead.
 
-</details>
-
 ## Step 3: Attach BLTouch to BLTouch Mount
 
 [![Step 3: Attach BLTouch to BLTouch Mount, image 1](../assets/images/large/eIVrpLSgDYxEARvO.jpg)](../assets/images/zoom/eIVrpLSgDYxEARvO.jpg) [![Step 3: Attach BLTouch to BLTouch Mount, image 2](../assets/images/large/sFCJEKyNadaWTLwL.jpg)](../assets/images/zoom/sFCJEKyNadaWTLwL.jpg)
@@ -74,13 +72,11 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Pass the bolt up through the BLTouch mount
 - Put an m3 washer on the bolt, and then an m3 Nylock Nut.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 3:**
 
 > **Christian Harrell** wrote on 2020-08-04:
 > 
 > It may be beneficial to note; the brass fittings are not labeled on the diagram, but should be included
-
-</details>
 
 ## Step 4: Install BLTouch
 
@@ -95,7 +91,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Locate the layer fan adapter (In this kits this part is white, not black as shown), and insert an M3 nut into the slot on it as shown.
 - Attach the layer fan to the bottom of your Y carriage using a single M3 x 6mm button head bolt. (Image is shown off of a printer for clarity)
 
-<details markdown="1"><summary>2 comment(s) on this step</summary>
+**2 comments on step 5:**
 
 > **evin powell** wrote on 2020-06-18:
 > 
@@ -104,8 +100,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > **Max Plastix** wrote on 2020-05-17:
 > 
 > For the 713Maker Aluminum Y Carriage option, there is a different shroud adapter to use. “Alu_Mount_Adapter.stl” Not included in kit.
-
-</details>
 
 ## Step 6: Part Cooling Fan and Y Endstop Install
 
@@ -122,7 +116,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Start by attaching the Layer fan and shroud. Attach the Layer fan to the bottom of the adapter using one m3x8mm Button head bolt into the rear hole (the one going to the m3 washer) and one m3 x 12mm Button head bolt that will pass through the other hole and into the brass insert in the Y carriage.
 - Attach the Y endstop mount to the bottom right two holes in the Y carriage using (2) m3 x 8mm Button Head Bolts
 
-<details markdown="1"><summary>4 comment(s) on this step</summary>
+**4 comments on step 7:**
 
 > **Nick Howarth** wrote on 2024-08-23:
 > 
@@ -155,8 +149,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > **Marco Ponti** wrote on 2020-05-11:
 > 
 > I had to attach the y stop on the other side of the mount otherwise the wires rubbed on the rail
-
-</details>
 
 ## Step 8: Prep Hotend Groove Mount
 

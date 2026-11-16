@@ -50,7 +50,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Once the "stack" is level with the shoulder, thread it into the X carriage (I leave the shoulder bolt pointing up, and turn the X carriage down onto it, being careful not to cross-thread it).
 - **Caution:** The shoulder must be tight against the X-Carriage, with as little vertical play as possible. If the idlers don't spin smoothly, it's too tight and you need to remove a washer or shim. THERE MUST ALWAYS BE A SHIM DIRECTLY AGAINST EACH SIDE OF THE IDLERS.
 
-<details markdown="1"><summary>4 comment(s) on this step</summary>
+**4 comments on step 2:**
 
 > **Islam** wrote on 2022-03-14:
 > 
@@ -88,8 +88,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > 
 > My washers are 0.933mm and shims 0.409mm thick, if that helps adjustment.
 
-</details>
-
 ## Step 3: Back X Carriage Idler Installation
 
 [![Step 3: Back X Carriage Idler Installation, image 1](../assets/images/large/KQ4cR4JiZ1mCwjJn.jpg)](../assets/images/zoom/KQ4cR4JiZ1mCwjJn.jpg) [![Step 3: Back X Carriage Idler Installation, image 2](../assets/images/large/we2gjxiKAtJUVShP.jpg)](../assets/images/zoom/we2gjxiKAtJUVShP.jpg)
@@ -111,13 +109,11 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - There is a round metal spacer that goes between the Y rail and the horizontal part of the carriage. Lightly tighten the horziontal M3 bolt t hold it in place.
 - There is a flat aluminum spacer that goes under the Y rail. Lightly tighten vertical bolt under the Rail against that spacer.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 4:**
 
 > **Max Plastix** wrote on 2020-05-15:
 > 
 > Do not make the X Carriages flush against the end of the rail! The carriage will span 400mm of space, and the rail is only 395mm, so it should be recessed about 2mm in from each outer face.
-
-</details>
 
 ## Step 5: Bolt Y Rail Assembly onto X Rails
 
@@ -125,7 +121,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 
 - Attach the X carriages to the X rails using (4) M3 x 8mm Button head bolts each.
 
-<details markdown="1"><summary>2 comment(s) on this step</summary>
+**2 comments on step 5:**
 
 > **Max Plastix** wrote on 2020-07-05:
 > 
@@ -136,8 +132,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > **Max Plastix** wrote on 2020-07-05:
 > 
 > There might be some (tilt) play in how the carriages mount to the rail blocks, so take extra care to make sure they are nicely horizontal and level to the rail.
-
-</details>
 
 
 Previous: [H) Leadscrews and Z Yokes](h-leadscrews-and-z-yokes.md) · [RailCore II guide list](index.md) · Next: [J) X/Y Steppers and Idlers](j-x-y-steppers-and-idlers.md)

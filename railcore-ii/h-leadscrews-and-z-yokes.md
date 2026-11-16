@@ -37,7 +37,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Install the (3) Z steppers into the bottom panel using (4) M3 x 10mm socket cap head screw per stepper. The connectors should point towards the right side of the printer.
 - **Caution:** It's important the Z towers are positioned on the correct side of the steppers, as is shown in the picture.
 
-<details markdown="1"><summary>3 comment(s) on this step</summary>
+**3 comments on step 1:**
 
 > **Jeff Weiss** wrote on 2021-08-06:
 > 
@@ -55,8 +55,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > 
 > Top of the picture is the Back side of the printer.
 
-</details>
-
 ## Step 2: Bottom Brace Installation
 
 [![Step 2: Bottom Brace Installation, image 1](../assets/images/large/pTxUY4dPtROptIPu.jpg)](../assets/images/zoom/pTxUY4dPtROptIPu.jpg) [![Step 2: Bottom Brace Installation, image 2](../assets/images/large/Ert1BAaSAeRnICRO.jpg)](../assets/images/zoom/Ert1BAaSAeRnICRO.jpg) [![Step 2: Bottom Brace Installation, image 3](../assets/images/large/oC33l1luWZObySnU.jpg)](../assets/images/zoom/oC33l1luWZObySnU.jpg)
@@ -67,7 +65,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Secure the bottom panel brace using (5) M3 washers and (5) M3 nuts on the bottom side of the printer.
 - Repeat this process for the brace on the right side of the bottom panel.
 
-<details markdown="1"><summary>6 comment(s) on this step</summary>
+**6 comments on step 2:**
 
 > **Keith Coventry** wrote on 2021-02-06:
 > 
@@ -93,8 +91,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > 
 > Not only does my kit not have two extra extrusions for this,but there are no holes in the bottom HDPE panel for this as well. Is this something that should have been in the filastruder kit?
 
-</details>
-
 ## Step 3: Leadscrew Couplers
 
 [![Step 3: Leadscrew Couplers, image 1](../assets/images/large/KHajtldQSp6dFgYF.jpg)](../assets/images/zoom/KHajtldQSp6dFgYF.jpg)
@@ -103,7 +99,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - The Couplers are silver, with colored plastic combining the two halves.
 - **Note:** The third stepper on the right side of the printer is not pictured.
 
-<details markdown="1"><summary>3 comment(s) on this step</summary>
+**3 comments on step 3:**
 
 > **Max Plastix** wrote on 2020-06-05:
 > 
@@ -121,8 +117,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 >
 > Note that the LDO motors don’t have very deep holes. Ensure that the screws aren’t bottoming out in the motor.
 
-</details>
-
 ## Step 4: Yokes
 
 [![Step 4: Yokes, image 1](../assets/images/large/VA3TQpF5FwKwWrr6.jpg)](../assets/images/zoom/VA3TQpF5FwKwWrr6.jpg) [![Step 4: Yokes, image 2](../assets/images/large/sVXUKt1STKPoqVGn.jpg)](../assets/images/zoom/sVXUKt1STKPoqVGn.jpg)
@@ -130,7 +124,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Install the (3) Z Yokes onto the Z carriages using (4) M3 x 12mm Button Head Bolts each. Note the orientation of the yokes in the pictures - ensure the hole for the leadscrew lines up over the stepper.
 - **Caution:** For Misumi linear rails, use M3 x 10mm instead of M3 x 12mm bolts.
 
-<details markdown="1"><summary>2 comment(s) on this step</summary>
+**2 comments on step 4:**
 
 > **Max Plastix** wrote on 2020-06-05:
 > 
@@ -145,8 +139,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > > **Chahé** wrote on 2020-11-12:
 > > 
 > > I inverted the z yokes because when the plate is at its highest point, the extruder fan shroud was touching part of the yoke. Inverting the a yokes gives more xy room to print.
-
-</details>
 
 ## Step 5: Anti-backlash Nut
 

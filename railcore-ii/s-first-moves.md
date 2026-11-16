@@ -30,13 +30,11 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
   - <span style="color:#15a1d6" title="light_blue bullet">&#9679;</span> M569 P0 S0
 - **Caution:** If the Y (front) stepper moves, you have the steppers in the wrong ports. Power Down and change the cables to the correct ports - see the wiring instructions.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 2:**
 
 > **Lee Williams** wrote on 2020-07-02:
 > 
 > **For firmware 1.19 and later:** If the head moves diagonally in the +X and -Y directions, all is well. If it moves in the -X and +Y directions, change the S parameter in the M569 P1 command to S1.
-
-</details>
 
 ## Step 3: Y Stepper Direction
 
@@ -67,15 +65,13 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - **Caution:** If none of the endstops show as stopped, check your X endstop connection
 - **Caution:** If the Y endstop shows as stopped, you have the endstops in the wrong ports. Power down and double check they're plugged in correctly.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 5:**
 
 > **John O'Shaughnessy** wrote on 2020-08-21:
 > 
 > With RRF 3.x the output from M119 has changed a bit. Now when X endstop is pressed, the output is: Endstops - X: at min stop, Y: not stopped, Z: no endstop, Z probe: not stopped
 >
 > (Showing min-stop instead of stopped)
-
-</details>
 
 ## Step 6: Test Y Endstop
 
@@ -97,7 +93,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
   - M280 P3 S90
 - The Z Probe value in the duet web control should read zero.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 7:**
 
 > **Andrew Tosh** wrote on 2020-10-18:
 > 
@@ -106,8 +102,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > To deploy - M280 P0 S10
 >
 > To retract - M280 P0 S90
-
-</details>
 
 ## Step 8: X Homing Test
 

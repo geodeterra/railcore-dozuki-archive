@@ -28,13 +28,11 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Install the Ribbon Cable between the Duet & Duex5. Note the red strip should go to the right.
 - You can tuck the excess length of the ribbon cable under the Duex5 to help keep things tidier.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 1:**
 
 > **Max Plastix** wrote on 2020-06-16:
 > 
 > Yes, this Ribbon Cable is longer than the distance between boards. You have your choice of the classic “bow” outward, or ripple fold, or carefully removing one of the long IDC headers and shortening the cable to size (not recommended).
-
-</details>
 
 ## Step 2: Switch to PSU
 
@@ -49,15 +47,13 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Connect the long black wire from the WAGO connector to the ring terminal marked 1 on the SSR.
 - The SSR has a protective plastic cover over the AC terminals, #1 & #2. This cover needs to be opened (flipped back) to fully remove the terminal screw for the ring terminal. The screw is mildly captive, so continue unscrewing to release it. Re-install the snap cover after installing both #1 & #2.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 3:**
 
 > **Max Plastix** wrote on 2020-06-16:
 > 
 > The Panasonic kit SSR has a protective plastic cover over the AC terminals, 1 & 2. This cover needs to be opened (flipped back) to fully remove the screw and install the ring terminal. The screw is mildly captive, so will take some unscrewing to release entirely. Re-install the snap cover after installing both 1 & 2.
 >
 > Note that 1 & 2 are interchangeable A/C lines if this makes routing easier.
-
-</details>
 
 ## Step 4: Plug to PSU
 
@@ -145,13 +141,11 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - The bed harness has a green ground wire that was attached to the bed earlier in the build.
 - Run the ground wire over the PSU and SSR, down to the 5 port WAGO the green wires from the PSU and Power Inlet were run to.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 15:**
 
 > **Jeff Weiss** wrote on 2021-08-07:
 > 
 > My Magnetic bed and Keenovo heater has no ground wire nor was there a step to add it to the bed?There is no ground wire in the kit to add to the bed either. There is no place on the bed to add a ground wire as well. This seems like an important detail to be skipped altogether.
-
-</details>
 
 ## Step 16: Frame Ground
 
@@ -162,13 +156,11 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Run the cable up past the SSR, and attach it to the top frame on the extrusion near the rear stepper.
 - Use the toothed lockwasher and an M3 x 8mm button head bolt. Place the toothed washer under the ring terminal.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 16:**
 
 > **Jeff Weiss** wrote on 2021-08-07:
 > 
 > The m3 bolt and lockwasher are way too small to properly attach the chassis ground to the top extrusion in this way. The eyelet in the chassis ground wire is far too big to attach in this manner. I had to use two m3 washers to install the ground wire with sufficient attachment strength and reliability.
-
-</details>
 
 ## Step 17: Extruder Wiring Bundle
 
@@ -218,13 +210,11 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Connect the Hotend Fan to one of the always on Fan ports on the Duet2.
 - **Caution:** It's good to double check that the red wire is to the right side pin, nearest the Duet2 Power connectors.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 23:**
 
 > **Islam** wrote on 2022-01-24:
 > 
 > If you’re running a Duet3 double check that the fan voltage jumper is set to 24v.
-
-</details>
 
 ## Step 24: Layer Fan
 
@@ -233,13 +223,11 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Connect the Layer Fan wires to the Fan0 connector on the Duet2.
 - **Caution:** It's best to double check the red wire is on the right side pin, nearest the Duet2 power connectors.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 24:**
 
 > **Islam** wrote on 2022-01-24:
 > 
 > If you’re running a Duet3 double check that the fan voltage jumper is set to 24v.
-
-</details>
 
 ## Step 25: Keenovo Thermistor
 

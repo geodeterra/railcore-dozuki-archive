@@ -282,8 +282,8 @@ class Builder:
             out.append("\n".join(self.line_md(l, page) for l in s["lines"]) + "\n")
             visible = [c for c in s.get("comments") or [] if c.get("status") != "deleted"]
             if visible:
-                out.append(f"<details markdown=\"1\"><summary>{len(visible)} comment(s) on this step</summary>\n\n"
-                           + self.comments_md(visible, page) + "\n\n</details>\n")
+                word = "comment" if len(visible) == 1 else "comments"
+                out.append(f"**{len(visible)} {word} on step {n}:**\n\n" + self.comments_md(visible, page) + "\n")
         if g.get("conclusion_rendered"):
             out.append("## Conclusion\n\n" + self.html_to_md(g["conclusion_rendered"], page) + "\n")
         visible = [c for c in g.get("comments") or [] if c.get("status") != "deleted"]

@@ -36,7 +36,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Attach the PSU using (4) M4 x 10mm Button Head Bolts. The bolts go through holes in the right panel, and into the back of the PSU.
 - Be sure to install the PSU so the wiring terminals are to the bottom of the printer.
 
-<details markdown="1"><summary>2 comment(s) on this step</summary>
+**2 comments on step 3:**
 
 > **Jeff Weiss** wrote on 2021-08-07:
 > 
@@ -50,8 +50,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > 
 > AGAIN…Remember to check the voltage!! The power brick comes preset at 220V for safety. In the USA nominal voltage is 110 V. When you give power to the printer later on nothing will happen. Make sure you check the voltage before assambly.
 
-</details>
-
 ## Step 4: SSR
 
 [![Step 4: SSR, image 1](../assets/images/large/5fujukIxHgTlgc2h.jpg)](../assets/images/zoom/5fujukIxHgTlgc2h.jpg)
@@ -59,7 +57,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Install the SSR as shown.
 - Each hole is held in place using (1) M4 x 15mm Socket Cap Head Screws and an M4 nut & Washer
 
-<details markdown="1"><summary>5 comment(s) on this step</summary>
+**5 comments on step 4:**
 
 > **Jeffery Seiffert** wrote on 2023-01-04:
 > 
@@ -87,8 +85,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > 
 > The kit doesn’t include M4 nuts
 
-</details>
-
 ## Step 5: Duet and Duex5
 
 [![Step 5: Duet and Duex5, image 1](../assets/images/large/eUryx5u5wN4Jrqfo.jpg)](../assets/images/zoom/eUryx5u5wN4Jrqfo.jpg)
@@ -100,7 +96,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - **Note:** The image says 20mm, it needs to be corrected.
 - Pass the bolts through the panel, attach with an M3 Washer and M3 nut.
 
-<details markdown="1"><summary>4 comment(s) on this step</summary>
+**4 comments on step 5:**
 
 > **Islam** wrote on 2022-02-07:
 > 
@@ -122,8 +118,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > 
 > M3 x 16 Button Heads work. I only had 5 M3x20 when I got to this stage
 
-</details>
-
 ## Step 6: Rear Ebox Corners
 
 [![Step 6: Rear Ebox Corners, image 1](../assets/images/large/vCfcmRpetJSQYBZm.jpg)](../assets/images/zoom/vCfcmRpetJSQYBZm.jpg)
@@ -134,7 +128,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Pass them through the short side of the Ebox corner, and through the right panel.
 - Fasten with an M3 washer and M3 nut.
 
-<details markdown="1"><summary>2 comment(s) on this step</summary>
+**2 comments on step 6:**
 
 > **Jeffery Seiffert** wrote on 2023-01-04:
 > 
@@ -143,8 +137,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > **Ran Wei** wrote on 2020-07-14:
 > 
 > I used M3 x 16 Button Head bolts as there were no M3 x 20 left (only 8 in total).
-
-</details>
 
 ## Step 7: Power Switch
 
@@ -160,13 +152,11 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Install the 75mm black wire between the switch and the fuse. It's a short black wire, with a spade terminal on each end.
 - Install the 150mm green ground wire to the ground terminal on the plug. It has a spade terminal on one end, and a ring terminal on the other.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 8:**
 
 > **RiC0_MD** wrote on 2021-11-26:
 > 
 > The filastruder kit comes with a newer plug+switch combo, you should only have L/N/Earth Ground coming from it, no jump wires required.
-
-</details>
 
 ## Step 9: Power Switch
 

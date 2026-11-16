@@ -43,7 +43,7 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 - **Caution:** The kit includes (2) untapped 425mm extrusions - for this step be sure to use the tapped extrusions.
 - It is a good idea to mark each extrusion with a bit of masking tape on top, indicating which extrusion it is.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 1:**
 
 > **Max Plastix** wrote on 2020-05-09:
 > 
@@ -53,21 +53,17 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 >
 > Access to the corner cubes is still needed, so do not bolt the Feet onto the M3x16 long nuts just yet. Wait until mounting the upright extrusions next.
 
-</details>
-
 ## Step 2: Install Corner Cube on Bottom Left Extrusion
 
 [![Step 2: Install Corner Cube on Bottom Left Extrusion, image 1](../assets/images/large/AeAVNqmVg3SPGUtd.jpg)](../assets/images/zoom/AeAVNqmVg3SPGUtd.jpg)
 
 - Use (1) M3 x 8mm socket cap head screw to the 425mm bottom left extrusion. Note the orientation of the corner cube.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 2:**
 
 > **Max Plastix** wrote on 2020-05-12:
 > 
 > Using the diagram above, it goes on the Back-Left corner of the Left bottom extrusion.
-
-</details>
 
 ## Step 3: Add Hardware to Bottom Left Extrusion
 
@@ -78,15 +74,13 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 - Slide (4) M3 nuts into the inside channel. Note: If using a metal bottom (base plate), these are not needed.
 - In the bottom channel the order is (1) M3 x 16mm head head bolt, (3) M3 x 10mm hex head bolts, (1) M3 x 16mm hex head bolts. It is very important they're in this order, the longer bolts on the end are for attaching the feet.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 3:**
 
 > **Max Plastix** wrote on 2020-05-12:
 > 
 > Note that this Cube end may be incorrectly rotated 180 degrees in the picture.
 >
 > The Top Channel of the Bottom Left extrusion will have a small hole showing at the top of the cube.
-
-</details>
 
 ## Step 4: Add Second Corner Cube to Bottom Left Extrusion
 
@@ -110,13 +104,11 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 - The bottom channel of the bottom front extrusion gets (1) M3 x 16mm hex head bolt, (3) M3 x 10mm hex head bolts, and (1) M3 x 16mm hex head bolt, in that order.
 - Set this assembly aside, so you can assemble the bottom right extrusion.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 6:**
 
 > **Max Plastix** wrote on 2020-05-12:
 > 
 > Note that the Corner Cubes in the picture for Step 6 may be shown incorrectly. They will have Small Hole on top, Large hole facing the bottom.
-
-</details>
 
 ## Step 7: Install Corner Cube on Bottom Right Extrusion
 
@@ -133,13 +125,11 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 - Slide (5) M3 x 10mm hex head bolts in the outside channel.
 - In the bottom channel add the following hardware in this order: (1) M3 x 16mm hex head Bolt, (3) M3 x 10mm hex head bolts, (1) M3 x 16mm hex head bolt.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 8:**
 
 > **Mike Estes** wrote on 2020-11-09:
 > 
 > In diagram- Bottom Channel, 3 M3 x 16 should be 3 M3 x10
-
-</details>
 
 ## Step 9: Add Second Corner Cube to Bottom Right Extrusion
 
@@ -153,13 +143,11 @@ It's assumed that you're building a kit from Filastruder, and you've completed a
 
 - Use (2) M3 x 8mm Socket Cap Head Screws to attach the bottom right extrusion to the rest of the bottom frame assembly from earlier.
 
-<details markdown="1"><summary>1 comment(s) on this step</summary>
+**1 comment on step 10:**
 
 > **Keith Coventry** wrote on 2021-02-02:
 > 
 > If using the HDPE base, make sure the two bottom stiffening braces fit between these extrusions. I had the whole frame built with sides bolted on and the bottom braces won’t fit between the extrusions (Filastruder kit). I already had everything square so I it was a bit painful to loosen an extrusion and side panel to fit these in and then adjust for squareness again.
-
-</details>
 
 
 Previous: [C) Top Extrusions Assembly](c-top-extrusions-assembly.md) · [RailCore II guide list](index.md) · Next: [E) Upright Extrusion / Frame Final Assembly](e-upright-extrusion-frame-final-assembly.md)

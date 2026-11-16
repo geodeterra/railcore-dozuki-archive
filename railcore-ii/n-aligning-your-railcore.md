@@ -38,7 +38,7 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 - Once the Y rail is squared you should re-tighten the bolts in the X carriages to retain the Y rail.
 - Ideal belt tension is between 40 - 50hz as measured on the short spans on the left of the printer between the idler mounts.
 
-<details markdown="1"><summary>3 comment(s) on this step</summary>
+**3 comments on step 2:**
 
 > **Glen Hoag** wrote on 2020-09-06:
 > 
@@ -51,8 +51,6 @@ Category: [RailCore II](index.md) · Original: <https://railcore.dozuki.com/Guid
 > **Max Plastix** wrote on 2020-06-16:
 > 
 > There is a free Android app from Gates, the maker of belts and pulleys, to help measure the vibration frequency by sound and your phone microphone. It can be downloaded here [https://play.google.com/store/apps/detai...](https://play.google.com/store/apps/details?id=com.gates.carbondrivecalculator&hl=en_US "https://play.google.com/store/apps/details?id=com.gates.carbondrivecalculator&amp;hl=en_US")
-
-</details>
 
 ## Step 3: Centering the Linear Rails
 
