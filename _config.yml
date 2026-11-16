@@ -1,0 +1,15 @@
+title: RailCore build guides (unofficial archive)
+description: An unofficial community mirror of the RailCore II and RailCore Mini Kit build guides from railcore.dozuki.com, captured on 2026-11-16.
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+relative_links:
+  enabled: true
+  collections: false
+exclude:
+  - README.md
