@@ -13,3 +13,4 @@ relative_links:
   collections: false
 exclude:
   - README.md
+  - tools

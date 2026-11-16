@@ -17,3 +17,5 @@ The content is licensed under CC BY-SA 3.0, the license stated by the original s
 See [LICENSE.md](LICENSE.md) for the source of that statement and the attribution.
 
 RAILCORE is a registered trademark of RailCore Labs, LLC. This mirror is not affiliated with RailCore Labs, LLC.
+
+The `tools/` folder holds the scripts used to download the site and build these pages.
